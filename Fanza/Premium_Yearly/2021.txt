@@ -17996,7 +17996,6 @@ h_1435bth00066
 pow022
 wnso017
 retomn00070
-retomn00111
 asrt145
 retomn00095
 kitaike402
@@ -18007,7 +18006,6 @@ big0085
 asrt149
 retomn00045
 orex161
-retomn00137
 big0086
 retomn00052
 big0084
