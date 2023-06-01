@@ -10464,7 +10464,6 @@ bomn00218
 tjng152
 tjng150
 snis00939
-parathd02162
 ore258
 mmb00167
 mifd00028
@@ -13920,7 +13919,6 @@ atom00295
 aed00140
 1nhdtb00041
 yami00061
-parathd02105
 odv00392
 mifd00014
 krbv00263
