@@ -20,3 +20,9 @@
 |![h.m.p BB](https://static.mgstage.com/mgs/img/pc/s_banner-hmp.jpg)| 2381 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/hmpBB.txt |
 |![HOT BB](https://static.mgstage.com/mgs/img/pc/s_banner-hot.jpg)| 1682 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/hotBB.txt |
 |![NEXT BB](https://static.mgstage.com/mgs/img/pc/s_banner-next.jpg)| 5663 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/NextBB.txt |
+
+## DMM TV
+| Channel | Count | Link |
+| :-----: | :---: | :--- |
+|**ビデオ**<br />(Video Premium) | 11769 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Premium.txt |
+|**グラビア**<br />(Gravure Premium) | 7094 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Gravure_Premium.txt |
