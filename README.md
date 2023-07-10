@@ -24,6 +24,12 @@
 ## DMM TV
 | Channel | Count | Link |
 | :-----: | :---: | :--- |
-|**ビデオ 見放題**<br />(Video Premium) | 11769 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Premium.txt |
-|**ビデオ 無料**<br />(Video Free) | 2636 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Free.txt |
-|**グラビア 見放題**<br />(Gravure Premium) | 7097 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Gravure_Premium.txt |
+|**ビデオ 見放題**<br />Video Premium | 11769 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Premium.txt |
+|**ビデオ 無料**<br />Video Free | 2636 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Free.txt |
+|**グラビア 見放題**<br />Gravure Premium | 7097 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Gravure_Premium.txt |
+
+## FANZA TV
+| Channel | Count | Link |
+| :-----: | :---: | :--- |
+|![FANZA TV](https://panda.dmm.com/premium_lp/welcome/fanzatv/logo_fanzatv.png)| 2179 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/FANZATV/FANZA_TV.txt |
+|![FANZA TV Plus](https://panda.dmm.com/premium_lp/welcome_fanzatvplus/logo_fanzatvplus_1.png)| 108270 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/FANZATV/FANZA_TV_Plus.txt |
