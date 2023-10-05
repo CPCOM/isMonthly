@@ -3,9 +3,9 @@
 ## Fanza Maker Channel
 | Channel | Count | Link |
 | :-----: | :---: | :--- |
-|![見放題ch デラックス](https://p.dmm.co.jp/p/mt/top/logo/premium_list.png)| 335009 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PREMIUM.txt |
-|![プレイガール](https://p.dmm.co.jp/p/mt/top/logo/playgirl_list.png)| 78089 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PLAYGIRL.txt |
-|![ソフト・オン・デマンド](https://p.dmm.co.jp/p/mt/top/logo/sod_list.png)| 23362 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/SOD.txt |
+|![見放題ch デラックス](https://p.dmm.co.jp/p/mt/top/logo/premium_list.png)| 335058 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PREMIUM.txt |
+|![プレイガール](https://p.dmm.co.jp/p/mt/top/logo/playgirl_list.png)| 78095 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PLAYGIRL.txt |
+|![ソフト・オン・デマンド](https://p.dmm.co.jp/p/mt/top/logo/sod_list.png)| 23363 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/SOD.txt |
 |![AVステーション](https://p.dmm.co.jp/p/mt/top/logo/avstation_list.png)| 38902 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/AVSTATION.txt |
 |![HHHch](https://p.dmm.co.jp/p/mt/top/logo/hhh_list.png)| 4524 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/HHH.txt |
 |![KMP](https://p.dmm.co.jp/p/mt/top/logo/kmp_list.png)| 16421 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/KMP.txt |
@@ -18,39 +18,39 @@
 ## Fanza Genre Channel
 | Channel | Count | Link |
 | :-----: | :---: | :--- |
-|![VRch](https://p.dmm.co.jp/p/mt/top/logo/vr_list.png)| 12322 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/VR.txt |
-|![熟女](https://p.dmm.co.jp/p/mt/top/logo/jukujo_list.png)| 32764 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/JUKUJO.txt |
+|![VRch](https://p.dmm.co.jp/p/mt/top/logo/vr_list.png)| 12325 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/VR.txt |
+|![熟女](https://p.dmm.co.jp/p/mt/top/logo/jukujo_list.png)| 32767 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/JUKUJO.txt |
 |![ドリーム](https://p.dmm.co.jp/p/mt/top/logo/dream_list.png)| 23897 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/DREAM.txt |
-|![マニア](https://p.dmm.co.jp/p/mt/top/logo/mania_list.png)| 39485 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/MANIA.txt |
-|![素人ガールズコレクション](https://p.dmm.co.jp/p/mt/top/logo/shirouto_list.png)| 31819 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/SHIROUTO.txt |
+|![マニア](https://p.dmm.co.jp/p/mt/top/logo/mania_list.png)| 39516 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/MANIA.txt |
+|![素人ガールズコレクション](https://p.dmm.co.jp/p/mt/top/logo/shirouto_list.png)| 31823 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/SHIROUTO.txt |
 |![アダルトアニメ](https://p.dmm.co.jp/p/mt/top/logo/animech_list.png)| 1201 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/ANIMECH.txt |
 |![ピンク映画](https://p.dmm.co.jp/p/mt/top/logo/nikkatsu_list.png)| 5035 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/NIKKATSU.txt |
-|![パラダイステレビ](https://p.dmm.co.jp/p/mt/top/logo/paradisetv_list.png)| 5040 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PARADISETV.txt |
+|![パラダイステレビ](https://p.dmm.co.jp/p/mt/top/logo/paradisetv_list.png)| 5044 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PARADISETV.txt |
 
 ## MGStage
 | Channel | Count | Link |
 | :-----: | :---: | :--- |
 |![ShiroutoTV](https://static.mgstage.com/mgs/img/pc/s_banner-shirouto2.jpg)| 4880 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/ShiroutoTV.txt |
-|![NanpaTV](https://static.mgstage.com/mgs/img/pc/s_banner-nanpa.jpg)| 2787 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/NanpaTV.txt |
-|![LuxuTV](https://static.mgstage.com/mgs/img/pc/s_banner-luxu.jpg)| 1686 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/LuxuTV.txt |
-|![SUPER ch](https://static.mgstage.com/mgs/img/pc/s_banner-superch.jpg)| 11099 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/SuperCH.txt |
+|![NanpaTV](https://static.mgstage.com/mgs/img/pc/s_banner-nanpa.jpg)| 2788 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/NanpaTV.txt |
+|![LuxuTV](https://static.mgstage.com/mgs/img/pc/s_banner-luxu.jpg)| 1687 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/LuxuTV.txt |
+|![SUPER ch](https://static.mgstage.com/mgs/img/pc/s_banner-superch.jpg)| 11102 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/SuperCH.txt |
 |![DOC ch](https://static.mgstage.com/mgs/img/pc/s_banner-DOC.jpg)| 1765 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/DocCH.txt |
 |![PRESTIGE BB](https://static.mgstage.com/mgs/img/pc/s_banner-pre2.jpg)| 6166 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/PrestigeBB.txt |
-|![KANBi ch](https://static.mgstage.com/mgs/img/pc/s_banner-kanbich.jpg)| 494 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/KanbiCH.txt |
-|![SOD ch](https://static.mgstage.com/mgs/img/pc/s_banner-sod.jpg)| 16197 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/SodCH.txt |
-|![h.m.p BB](https://static.mgstage.com/mgs/img/pc/s_banner-hmp.jpg)| 2411 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/hmpBB.txt |
+|![KANBi ch](https://static.mgstage.com/mgs/img/pc/s_banner-kanbich.jpg)| 495 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/KanbiCH.txt |
+|![SOD ch](https://static.mgstage.com/mgs/img/pc/s_banner-sod.jpg)| 16202 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/SodCH.txt |
+|![h.m.p BB](https://static.mgstage.com/mgs/img/pc/s_banner-hmp.jpg)| 2412 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/hmpBB.txt |
 |![HOT BB](https://static.mgstage.com/mgs/img/pc/s_banner-hot.jpg)| 1713 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/hotBB.txt |
-|![NEXT BB](https://static.mgstage.com/mgs/img/pc/s_banner-next.jpg)| 5690 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/NextBB.txt |
+|![NEXT BB](https://static.mgstage.com/mgs/img/pc/s_banner-next.jpg)| 5691 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/NextBB.txt |
 
 ## DMM TV
 | Channel | Count | Link |
 | :-----: | :---: | :--- |
-|**ビデオ 見放題**<br />Video Premium | 12393 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Premium.txt |
-|**ビデオ 無料**<br />Video Free | 2529 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Free.txt |
-|**グラビア 見放題**<br />Gravure Premium | 7219 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Gravure_Premium.txt |
+|**ビデオ 見放題**<br />Video Premium | 12413 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Premium.txt |
+|**ビデオ 無料**<br />Video Free | 2530 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Free.txt |
+|**グラビア 見放題**<br />Gravure Premium | 7222 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Gravure_Premium.txt |
 
 ## FANZA TV
 | Channel | Count | Link |
 | :-----: | :---: | :--- |
 |![FANZA TV](https://panda.dmm.com/premium_lp/welcome/fanzatv/logo_fanzatv.png)| 2200 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/FANZATV/FANZA_TV.txt |
-|![FANZA TV Plus](https://panda.dmm.com/premium_lp/welcome_fanzatvplus/logo_fanzatvplus_1.png)| 106267 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/FANZATV/FANZA_TV_Plus.txt |
+|![FANZA TV Plus](https://panda.dmm.com/premium_lp/welcome_fanzatvplus/logo_fanzatvplus_1.png)| 106339 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/FANZATV/FANZA_TV_Plus.txt |

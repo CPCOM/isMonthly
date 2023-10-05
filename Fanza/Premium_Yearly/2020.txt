@@ -10308,8 +10308,8 @@ apns00161
 h_094ktra00183
 atid00392
 ipx00429
-venu00875
 ure00054
+venu00875
 jufe00136
 mtp0004
 nkr0008
@@ -15218,6 +15218,7 @@ hint0359
 dasd00473
 trubm027
 smaid083
+nsps00797
 venu00859
 per226
 kag015
@@ -15225,7 +15226,6 @@ bmh094
 jjaa00012
 genm00020
 bmnp082
-nsps00797
 18sprd01207
 orebms060
 dasd00470
