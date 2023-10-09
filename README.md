@@ -54,3 +54,8 @@
 | :-----: | :---: | :--- |
 |![FANZA TV](https://panda.dmm.com/premium_lp/welcome/fanzatv/logo_fanzatv.png)| 2201 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/FANZATV/FANZA_TV.txt |
 |![FANZA TV Plus](https://panda.dmm.com/premium_lp/welcome_fanzatvplus/logo_fanzatvplus_1.png)| 106394 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/FANZATV/FANZA_TV_Plus.txt |
+
+## H-NEXT
+| Channel | Count | Link |
+| :-----: | :---: | :--- |
+|![H-NEXT](./img/hnext_logo.svg)| 44157 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/H-NEXT/SOD.txt |
