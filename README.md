@@ -58,4 +58,6 @@
 ## H-NEXT
 | Channel | Count | Link |
 | :-----: | :---: | :--- |
-|![H-NEXT](./img/hnext_logo.svg)| 44269 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/H-NEXT/SOD.txt |
+|**ビデオ**<br />AV | 44269 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/H-NEXT/AV.txt |
+|**素人**<br />Amateur | 22408 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/H-NEXT/Sirouto.txt |
+|**アニメ**<br />Anime | 818 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/H-NEXT/Anime.txt |
