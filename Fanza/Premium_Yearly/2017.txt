@@ -296,7 +296,6 @@ csiro072
 tppn00156
 tjng043
 tjng015
-td005dvaj130g
 snis00807
 parathd02022
 opbd00131
@@ -5673,7 +5672,6 @@ h_254cand00168
 180advsr00104
 172xrw00289
 wanz00600
-tdop00005
 stouch544
 odv00378
 oba00331

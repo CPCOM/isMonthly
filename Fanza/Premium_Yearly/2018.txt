@@ -1709,7 +1709,6 @@ orec101
 orec099
 cesd00473
 exmu016
-td012dvaj000013d
 ssni00058
 rbb00129
 parathd02285
@@ -1833,7 +1832,6 @@ oretd265
 tjng210
 exmu014
 tura00323
-td012dvaj000031b
 ssni00060
 pppd00663
 per048
@@ -1955,7 +1953,6 @@ orec098
 orec104
 orec103
 td012sero000024b
-td012dv001677c
 ssni00054
 parathd02292
 mukd00453
@@ -1996,7 +1993,6 @@ stouch640
 vicd00339
 vero00069
 td012dvaj00224a
-td012dvaj000039a
 ssni00050
 sntl00005
 shkd00790
@@ -2070,7 +2066,6 @@ sirotd064
 odoushi122
 trum00003
 tjng207
-td012dvaj000003b
 tash00257
 ssni00048
 rbb00133
@@ -2130,7 +2125,6 @@ jzukan152
 odoushi123
 turu00017
 trumg040
-td012dvaj000039d
 ssni00043
 rbd00903
 pppd00669
@@ -2186,7 +2180,6 @@ grqr047
 trumg041
 gerk074
 hpara260
-td012dvaj000003d
 ssni00044
 per044
 per041
@@ -2240,7 +2233,6 @@ oretd258
 trumg042
 cesd00478
 tjng204
-td012dvaj000013c
 ssni00042
 pppd00664
 post00441
@@ -2359,7 +2351,6 @@ dpmu013
 wanz00752
 tura00320
 td012sero000239c
-td012dvaj000039c
 snhd00014
 shkd00793
 sero00405
@@ -2388,7 +2379,6 @@ cesd00485
 yami00068
 tura00322
 tjng202
-td012dvaj000039b
 ssni00056
 parathd02302
 oyc00178
@@ -2508,7 +2498,6 @@ adn00164
 oretd251
 tjng200
 cesd00479
-td012dvaj000013a
 ssni00045
 rezd00198
 parathd02278
@@ -2597,7 +2586,6 @@ xvsr00373
 voss00063
 tura00321
 tsp00356
-td012dvaj000031a
 ssni00049
 rbd00902
 parathd02290
@@ -2708,7 +2696,6 @@ ore328
 wanz00750
 tsp00358
 td012sero00344b
-td012dvaj000003a
 parathd02280
 oyc00179
 ofje00124
@@ -2753,7 +2740,6 @@ gerk072
 pwife451
 bda00058
 ymdd00118
-td012dv001677b
 ssni00047
 pred00070
 parathd02283
@@ -2881,7 +2867,6 @@ cesd00474
 540yst00148
 vec00285
 tyod00349
-td012dvaj000013b
 ssni00031
 parathd02291
 oppw00010
@@ -3056,7 +3041,6 @@ pwife449
 osh186
 wanz00747
 tomn00142
-td012dvaj000003c
 ssni00037
 rki00468
 post00438
@@ -3144,7 +3128,6 @@ h_113fp00007
 h_491fstb00008
 cesd00475
 dw150
-td012dv001677a
 ssni00038
 rki00467
 parathd02299
