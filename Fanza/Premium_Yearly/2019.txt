@@ -31,7 +31,6 @@ kwbd00249
 mide00660
 juy00879
 papa0012
-opa0003
 1mmgh00182
 eva0004
 ons0004
@@ -310,7 +309,6 @@ soro0002
 ons0002
 juy00889
 hamech178
-opa0001
 papa0008
 soro0001
 papa0011
@@ -751,7 +749,6 @@ bltn00005
 bltn00004
 bltn00003
 bltn00002
-bltn00001
 avsa00050
 aqsh00037
 aqsh00036
@@ -1051,7 +1048,6 @@ hamech150
 mem0001
 mem0011
 hamech149
-opa0002
 mem0009
 oretd519
 shih008
@@ -1171,7 +1167,6 @@ per184
 per185
 eva0009
 oretd508
-ink0003
 td021dvaj00230
 parathd02620
 kdkj00087
@@ -2530,7 +2525,6 @@ awd00104
 opai003
 opai002
 opai004
-cesd00678
 orec337
 oretd490
 meyd00440
@@ -4239,7 +4233,6 @@ nkds163
 per163
 per161
 jrw00004
-cesd00660
 orec314
 miaa00055
 per162
@@ -7428,7 +7421,6 @@ parathd02529
 meyd00415
 hint0339
 club00455
-cesd00641
 174okuram00525
 140c02363
 13rvg00061
@@ -16681,7 +16673,6 @@ hunta00489
 h_094ktra00062
 h_068mxsps00588
 gdhh00116
-emrd00103
 dasd00392
 1star00973
 1star00966
