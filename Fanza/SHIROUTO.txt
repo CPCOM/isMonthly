@@ -1,3 +1,13 @@
+hoi256
+orev040
+tcs002
+hame0009
+hgp0029
+hame0015
+spbj010
+shih076
+shih075
+shih074
 smuk144
 tkk042
 fct0063
@@ -4649,8 +4659,6 @@ tsdk00092
 tsdk00091
 tsdk00088
 tsdk00087
-tsdk00086
-tsdk00085
 tsdk00084
 tsdk00083
 tsdk00079
@@ -20895,6 +20903,7 @@ ako308
 high253
 pwife425
 tsdk00095
+tsdk00086
 stouch621
 street295
 jidori001
@@ -20946,6 +20955,7 @@ pwife423
 high251
 oretd179
 ckj118
+tsdk00085
 tjng170
 oregr017
 hint0264
