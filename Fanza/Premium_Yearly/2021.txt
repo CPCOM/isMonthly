@@ -11019,8 +11019,6 @@ stddt00053
 stddt00052
 stddt00051
 stddt00050
-rezd00268
-rezd00267
 opbd00159
 npjb00047
 npjb00046
