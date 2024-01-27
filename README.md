@@ -61,3 +61,8 @@
 |**ビデオ**<br />AV | 46712 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/H-NEXT/AV.txt |  
 |**素人**<br />Amateur | 23624 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/H-NEXT/Sirouto.txt |  
 |**アニメ**<br />Anime | 838 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/H-NEXT/Anime.txt |  
+  
+## SOD  
+| Channel | Count | Link |  
+| :-----: | :---: | :--- |  
+|![SOD Prime](https://dirjfxpj7j4c9.cloudfront.net/prime/image/logo_sp.png) | 28339 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/SOD/Prime.txt |  
