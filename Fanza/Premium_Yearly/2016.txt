@@ -1970,7 +1970,6 @@ hnd00292
 venu00556
 pppd00474
 mvsd00257
-sero00315
 nkds115
 ipz00753
 h_213agemix00268
@@ -64522,7 +64521,6 @@ gdd022
 gdd021
 gdd020
 gdd019
-gdd018
 gdd017
 gdd016
 gdd015
