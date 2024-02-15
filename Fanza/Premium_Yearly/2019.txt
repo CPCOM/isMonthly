@@ -7786,7 +7786,6 @@ emlb00008
 172real00691
 mgmr118
 oretd432
-per128
 oretd431
 bmnp018
 bmh066
@@ -7893,7 +7892,6 @@ apae00062
 miaa00023
 ckj201
 per139
-per137
 oretd440
 per138
 per136
