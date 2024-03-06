@@ -102,7 +102,6 @@ eva0011
 td021sero00007
 shih009
 pchd00006
-parathd02606
 opud00291
 nakb00002
 hunta00606
@@ -14065,7 +14064,6 @@ ore419
 ore415
 tyod00365
 ssni00192
-parathd02432
 nkkd00082
 kru00008
 hunta00509

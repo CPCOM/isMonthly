@@ -5482,7 +5482,6 @@ h_1462pyu00329
 tobp001
 parathd03706
 h_1462pyu00328
-parathd03690
 hhsi040
 h_1462pyu00327
 ore925
@@ -5527,7 +5526,6 @@ pwife928
 ako494
 36drop00066
 pwife927
-parathd03693
 pwife926
 47rt00016
 pwife925
@@ -11193,7 +11191,6 @@ gerk475
 118tem00051
 118tem00050
 118tem00049
-parathd03619
 mgfx082
 bmyb077
 sqb186
