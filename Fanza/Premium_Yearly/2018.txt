@@ -257,7 +257,6 @@ pppd00677
 per060
 per053
 parathd02320
-oyc00183
 ofje00113
 mide00556
 meyd00330
@@ -500,7 +499,6 @@ ymdd00121
 ssni00077
 pppd00673
 parathd02325
-oyc00186
 opud00256
 nkkd00059
 miae00254
