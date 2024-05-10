@@ -1,3 +1,10 @@
+avsa00201
+aarm00083
+aarm00084
+mopp00052
+avsa00200
+usba00044
+gmem00066
 sttcd00062
 sttcd00063
 dass00084
