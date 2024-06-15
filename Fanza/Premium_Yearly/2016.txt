@@ -18945,7 +18945,6 @@ high005
 high004
 high003
 high002
-high001
 hgy005
 hgy004
 hgy003
