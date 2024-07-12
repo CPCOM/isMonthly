@@ -36,11 +36,7 @@ sacz058
 sacz063
 sacz064
 h_109bts00018
-akyb036
-akyb035
 per382
-idjs052
-idjs053
 per381
 per380
 jmty00053
@@ -507,11 +503,7 @@ galgal002
 1zozo00065
 1zozo00067
 mntj061
-taxd003
 shss006
-idjs050
-idjs051
-akyb034
 h_254ofku00184
 sttcd00045
 h_254kir00036
@@ -845,9 +837,6 @@ opcyn187
 opcyn186
 opcyn185
 1nyh00130
-taxd002
-idjs048
-idjs049
 bnst00029
 bnst00028
 1nyh00127
@@ -1310,7 +1299,6 @@ huntb00024
 cmn00213
 bf00633
 tsph00107
-taxd001
 ssni00930
 pred00317
 nbes00030
@@ -1347,7 +1335,6 @@ pkpd00142
 ofje00287
 mmb00370
 jul00608
-idjs047
 huntb00021
 ssni00932
 kagp00182
@@ -2900,10 +2887,8 @@ h_094ktra00298
 h_094ktra00300
 1sdjs00118
 1kuse00016
-idjs045
 h_1304tg00092
 imgn012
-idjs046
 sp037
 opcyn184
 opcyn183
@@ -3255,8 +3240,6 @@ skck038
 sacz078
 ion083
 hint0452
-idjs043
-idjs044
 jmty00050
 24vdd00171
 24ped00007
@@ -3506,9 +3489,7 @@ h_1261amcp00095
 h_1261amcp00094
 imgn011
 skiv010
-idjs042
 5529id00013
-idjs041
 h_308aoz00300z
 55sait00023
 1sdfk00046
