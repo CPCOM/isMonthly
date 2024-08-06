@@ -1,3 +1,5 @@
+pkpr00023
+cogm00069
 tchb00023
 bobb00396
 ktb00077
@@ -158,9 +160,9 @@ evis00502
 sora00498
 soan00098
 sora00497
+pkpr00022
 cogm00068
 cogm00067
-pkpr00022
 jmty00069
 blor00231
 focs00163
@@ -289,8 +291,8 @@ sora00493
 funk00050
 kepa00024
 cogm00065
-cogm00066
 pkpr00021
+cogm00066
 rmer00032
 bnst00072
 blor00228
@@ -545,9 +547,9 @@ sora00477
 funk00039
 hoiz00097
 soan00096
+pkpr00019
 cogm00059
 cogm00061
-pkpr00019
 cogm00060
 jmty00068
 hikr00198
@@ -2395,8 +2397,8 @@ advo00185
 dpjt00146
 bony00008
 pkpb00003
-cogm00020
 pkpr00011
+cogm00020
 cogm00018
 cogm00019
 ktb00065
