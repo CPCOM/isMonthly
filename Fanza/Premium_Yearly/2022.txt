@@ -9667,7 +9667,6 @@ tmen007
 1totte00043
 otat008
 1totte00042
-srh028
 fuyu002
 srh030
 skho029
@@ -20315,7 +20314,6 @@ parathd03243
 parathd03251
 parathd03255
 h_254ofku00187
-parathd03247
 parathd03235
 h_254kir00042
 47ff00033
