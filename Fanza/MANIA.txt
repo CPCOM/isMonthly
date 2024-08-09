@@ -1,3 +1,10 @@
+avsa00212
+aarm00110
+usba00050
+gmem00076
+mopt00021
+aarm00109
+gmem00075
 daya00021
 luke00020
 stol00080
