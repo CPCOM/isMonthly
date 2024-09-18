@@ -18936,7 +18936,6 @@ kckc00063
 parathd03278
 parathd03262
 parathd03274
-parathd03270
 parathd03266
 orex285
 orex310
@@ -22264,7 +22263,6 @@ hint0466
 pwife757
 1danuhd00009
 ymds00044
-parathd03225
 parathd03215
 parathd03220
 hoi192

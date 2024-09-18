@@ -2146,7 +2146,6 @@ asfb00255
 td004sero00277
 snis00782
 post00387
-parathd02002
 mvbd00154
 mide00436
 htut128

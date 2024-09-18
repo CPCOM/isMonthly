@@ -2343,7 +2343,6 @@ kitaike235
 kitaike233
 d0170
 rpin00021
-172xrw00480
 ktkz00021
 h_565scop00511
 nsps00641
@@ -4982,7 +4981,6 @@ td010sero00317a
 tcd00191
 stouch630
 pkjpn006
-parathd02252
 oretd228
 oretd225
 kitaike188
@@ -8801,7 +8799,6 @@ oigs00013
 mrxd00079
 h_910vrtm00319
 kitaike137
-61mdtm00327
 36dmow00127
 1star00866
 12scr00184
@@ -10199,7 +10196,6 @@ mgmr044
 hqis00029
 h_213agesp00004
 h_068mxgs01008
-61bazx00100
 1sdmu00744
 snth00022
 orec051
