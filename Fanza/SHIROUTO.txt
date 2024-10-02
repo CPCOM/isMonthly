@@ -1,3 +1,13 @@
+glp058
+smuk186
+oreco659
+srom096
+srom094
+oreco658
+srom095
+srom093
+orena012
+g561
 peep034
 oreco656
 hhl097
@@ -9032,8 +9042,6 @@ merc117
 merc116
 merc115
 merc114
-merc113
-merc112
 merc111
 merc110
 merc109
@@ -10912,7 +10920,6 @@ dch017
 btgl023
 orec935
 stouch816
-btgl022
 btgl024
 pow063
 orec931
