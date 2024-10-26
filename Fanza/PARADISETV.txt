@@ -109,7 +109,6 @@ parathd03835
 parathd03832
 parathd03829
 parathd03843
-parathd03841
 parathd03831
 parathd03842
 parathd03827
@@ -557,7 +556,6 @@ parathd03372
 parathd03359
 parathd03361
 parathd03367
-parathd03374
 parathd03376
 parathd03360
 parathd03366
@@ -891,7 +889,6 @@ parathd03008
 parathd03003
 parathd03013
 parathd03018
-parathd03023
 parathd03022
 parathd03002
 parathd03017
@@ -1183,7 +1180,6 @@ parathd02719
 parathd02707
 parathd02715
 parathd02711
-parathd02723
 parathd02703
 parathd02682
 parathd02686
