@@ -11607,7 +11607,6 @@ jul00079
 stfx003
 stfx005
 hkd00121
-stfx002
 dsd00788
 hnd00764
 kgclub122
