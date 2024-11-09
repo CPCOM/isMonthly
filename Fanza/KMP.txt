@@ -87,7 +87,6 @@ scop00840
 enki00070
 umso00543
 gigl00721
-sqnc00004
 bqnc00004
 xrnf00002
 batd00012
