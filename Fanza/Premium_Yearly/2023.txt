@@ -375,7 +375,6 @@ srtf071
 nol0020
 57mcst00402
 hobb096
-57jksr00594
 57mcst00004
 hobb098
 57bdsr00503
@@ -391,7 +390,6 @@ hobb097
 57jksr59302
 57jksr59403
 57mcsr00531
-57jksr59401
 57jksr00593
 57sgsr00328
 57sgsr32905
@@ -14966,8 +14964,6 @@ tkwa171
 tkwa170
 sika250
 sika249
-sika248
-sika247
 sika246
 sika245
 sika244
