@@ -23,7 +23,6 @@ saba00893
 scpx00497
 saba00894
 mdbk00330
-umso00545
 mkmp00553
 saba00895
 saba00896
@@ -732,7 +731,6 @@ real00822
 saba00827
 bokd00268
 mdbk00284
-umso00497
 umso00499
 enki00060
 saba00823
@@ -1797,7 +1795,6 @@ supa00605
 mdbk00220
 brtm00043
 okax00814
-umso00433
 okax00815
 supa00606
 umso00431
