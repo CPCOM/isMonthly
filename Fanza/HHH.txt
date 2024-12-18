@@ -310,7 +310,6 @@ huntb00681
 huntb00653
 huntb00661
 huntb00543
-rroy00002
 huntb00658
 huntb00670
 huntb00645
@@ -788,7 +787,6 @@ huntb00299
 huntb00301
 huntb00303
 hhf00022
-royd00094
 hunbl00098
 huntb00285
 huntb00287
@@ -853,7 +851,6 @@ huntb00259
 huntb00257
 hunbl00089
 huntb00260
-rroy00001
 royd00089
 huntb00261
 huntb00242
@@ -1058,7 +1055,6 @@ huntb00117
 hunbl00064
 huntb00112
 huntb00111
-royd00068
 huntb00097
 hunbl00062
 huntb00107
