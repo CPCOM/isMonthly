@@ -14024,7 +14024,6 @@ smuk173
 smjs014
 sika342
 sika341
-sika340
 sika339
 sika338
 sika337
@@ -17094,7 +17093,6 @@ smjs001
 sika332
 sika331
 sika330
-sika329
 sika328
 sika327
 sika326
@@ -19811,8 +19809,6 @@ sika318
 sika317
 sika316
 sika315
-sika314
-sika313
 oremo037
 oreco483
 oreco482
