@@ -267,7 +267,6 @@ vrkm01186
 vrkm01122
 vrkm01136
 hnvr00115
-kiwvr00597
 ipvr00243
 vrkm01195
 aqumam00005
@@ -347,7 +346,6 @@ crvr00314
 vrkm01170
 h_1609spivr00063
 savr00271
-kiwvr00588
 savr00275
 vrkm01152
 kiwvrb00028
