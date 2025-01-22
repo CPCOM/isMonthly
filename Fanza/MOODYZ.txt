@@ -15,7 +15,6 @@ midv00795
 midv00786
 mifd00501
 miab00248
-mizd00389
 mifd00504
 miab00244
 miab00254
@@ -32,7 +31,6 @@ midv00770
 midv00769
 midv00767
 midv00771
-mizd00390
 miab00183
 midv00833
 miab00262
@@ -65,7 +63,6 @@ midv00753
 miab00232
 miab00229
 midv00760
-mizd00387
 mifd00493
 miab00230
 mizd00388
@@ -178,7 +175,6 @@ mimk00149
 midv00679
 miab00173
 miab00080
-mizd00377
 mifd00483
 mizd00378
 miab00172
@@ -554,7 +550,6 @@ midv00463
 midv00460
 miaa00957
 mizd00341
-mizd00342
 mifd00250
 mifd00247
 midv00418
