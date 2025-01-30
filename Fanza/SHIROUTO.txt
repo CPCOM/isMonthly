@@ -1,3 +1,9 @@
+skho128
+hoi330
+oread001
+orena018
+fots033
+fami014
 smjz042
 hhl109
 orena017
@@ -21867,7 +21873,6 @@ eqt347
 endx228
 sqb012
 hint0347
-sirotd118
 eva0023
 hint0348
 tjng402
@@ -22597,7 +22602,6 @@ dw191
 oregr059
 hoi026
 hint0343
-sirotd110
 ofpc077
 tjng380
 opcyn039
@@ -22826,7 +22830,6 @@ elzx038
 kitaike375
 htut324
 orex052
-sirotd107
 hint0342
 enc003
 onhtr043
@@ -23565,7 +23568,6 @@ gerk117
 pwife527
 jzukan186
 nkds160
-sirotd097
 truex006
 hameoji011
 orex053
@@ -24433,7 +24435,6 @@ ewdx211
 ako335
 ofpc064
 mkak005
-sirotd085
 orex036
 ore414
 tjng297
@@ -24443,7 +24444,6 @@ ore415
 gerk101
 stouch673
 tyoku041
-mgmr094
 orex035
 ore413
 ore412
@@ -24892,7 +24892,6 @@ ofpc060
 hdybi019
 onhtr039
 kitaike302
-mgmr088
 tyoku034
 oregr028
 judai008
@@ -25054,7 +25053,6 @@ oretd336
 bmh030
 ofpc054
 oregr027
-mgmr084
 urutora196
 oretd328
 gsiro041
@@ -25249,7 +25247,6 @@ goumo003
 gerk089
 ako326
 ofpc048
-sirotd073
 oregr024
 ore366
 judai003
@@ -26250,7 +26247,6 @@ d0167
 pwife442
 urutora173
 mgmr061
-sirotd057
 osh184
 dw146
 urutora175
@@ -26896,13 +26892,11 @@ kitaike141
 ewdx148
 ewdx143
 kitaike147
-mgmr049
 kitaike150
 oregr015
 ewdx147
 ore263
 kitaike151
-mgmr050
 kitaike143
 kgclub043
 ewdx145
@@ -26935,11 +26929,9 @@ high247
 ako306
 oretd165
 beginner075
-mgmr047
 ore266
 tsdk00081
 ore261
-sirotd045
 trumg030
 ako304
 sirotd041
@@ -26951,14 +26943,12 @@ oretd166
 pwife417
 trumg029
 dw131
-mgmr048
 dw130
 osh179
 stouch616
 high246
 dw129
 bat049
-mgmr046
 high245
 eqt128
 gsiro027
@@ -27023,7 +27013,6 @@ jzukan134
 eqt126
 ore259
 oretd157
-mgmr044
 orec051
 urutora169
 trumg027
@@ -27032,7 +27021,6 @@ tjng155
 stouch615
 hint0259
 oregr014
-mgmr045
 hint0258
 pwife415
 urutora170
@@ -27053,9 +27041,7 @@ osyabc006
 osyabc002
 osyabc001
 oretd153
-mgmr043
 orec047
-mgmr041
 orec045
 jzukan133
 tjng152
@@ -27073,7 +27059,6 @@ high243
 gaijin048
 high242
 oregr012
-mgmr042
 ofpc015
 sirotd040
 pkjpn003
@@ -27084,7 +27069,6 @@ ckj107
 ewdx139
 sirotd043
 orec048
-mgmr040
 urutora168
 oretd149
 odoushi110
@@ -27139,7 +27123,6 @@ htut208
 ewdx134
 kitaike125
 pwife412
-mgmr038
 ewdx137
 endx127
 htut205
@@ -27166,7 +27149,6 @@ htut209
 kitaike120
 kitaike116
 omsk032
-mgmr039
 kitaike117
 htut207
 dw128
@@ -27175,7 +27157,6 @@ kitaike134
 oregr011
 omsk031
 urutora165
-mgmr037
 kitaike127
 kitaike121
 dw125
@@ -27205,13 +27186,11 @@ oretd145
 high239
 sirotd037
 hdybi011
-mgmr035
 htut201
 gaijin046
 bat048
 high240
 pwife409
-mgmr036
 htut202
 tsdk00047
 pwife410
@@ -27219,7 +27198,6 @@ oretd144
 kgclub035
 ako302
 kitaike109
-mgmr034
 kgclub033
 htut204
 gaijin045
@@ -27237,7 +27215,6 @@ ofpc012
 htut206
 hdj047
 osh177
-mgmr032
 kgclub038
 pkjpn001
 eqt124
@@ -27250,7 +27227,6 @@ hint0253
 eqt120
 orec040
 yariss043
-mgmr033
 eqt115
 eqt122
 tjng142
@@ -27274,7 +27250,6 @@ tjng145
 tjng138
 stouch609
 odoushi107
-mgmr031
 kitaike106
 orec043
 ckj103
@@ -27303,7 +27278,6 @@ stouch608
 oretd141
 gaijin044
 orec038
-mgmr026
 hint0251
 kitaike107
 sirotd036
@@ -27325,13 +27299,11 @@ gaijin043
 orec037
 high232
 kitaike104
-mgmr029
 stouch606
 htut197
 vondg003
 oretd132
 pwife405
-mgmr027
 oretd136
 oretd131
 kitaike105
@@ -27362,7 +27334,6 @@ stouch604
 oretd127
 ewdx131
 orec033
-mgmr025
 dw121
 gebb002
 odoushi103
@@ -27375,7 +27346,6 @@ dw122
 ewdx128
 endx124
 vondp036
-mgmr024
 dw123
 ewdx130
 odoushi102
@@ -27383,7 +27353,6 @@ gebb003
 ewdx124
 endx120
 ckj099
-sirotd034
 enc001
 ore255
 gebb004
@@ -27392,13 +27361,11 @@ endx121
 enc002
 ewdx127
 endx117
-mgmr028
 ewdx123
 oretd128
 hdybi010
 gebb001
 gaijin042
-mgmr023
 ore256
 ewdx122
 pwife403
@@ -27436,7 +27403,6 @@ osh175
 beginner073
 high229
 htut192
-mgmr021
 kgclub029
 ofpc009
 htut189
@@ -27450,7 +27416,6 @@ pwife401
 htut190
 sirotd033
 high228
-mgmr022
 hdj043
 oretd125
 omsk025
@@ -27492,7 +27457,6 @@ tjng134
 street290
 csiro079
 high227
-mgmr020
 oretd123
 tjng135
 tjng125
@@ -27502,7 +27466,6 @@ gaijin040
 htut188
 kitaike096
 ckj094
-mgmr019
 street292
 hint0244
 tjng123
@@ -27548,7 +27511,6 @@ ewdx117
 tjng113
 tjng119
 kaku222
-mgmr018
 endx115
 gerk033
 orec034
@@ -27571,7 +27533,6 @@ odoushi098
 gerk034
 eqt106
 ore254
-mgmr017
 ewdx120
 smaid025
 eqt109
@@ -27605,8 +27566,6 @@ trumg020
 high220
 ckj090
 trumg021
-mgmr016
-mgmr015
 hdybi009
 pwife395
 dw117
@@ -27630,7 +27589,6 @@ stouch596
 oretd115
 htut180
 sirotd029
-mgmr014
 pwife394
 oretd114
 kgclub025
@@ -27705,7 +27663,6 @@ tjng099
 orec026
 tjng100
 pwife392
-mgmr013
 hint0237
 tjng103
 tjng097
@@ -27733,7 +27690,6 @@ tjng094
 odoushi095
 ewdx107
 endx100
-mgmr012
 oretd110
 stouch593
 onhtr016
@@ -27779,7 +27735,6 @@ oretd108
 sirotd027
 pwife389
 ckj082
-mgmr011
 sirotd026
 oretd109
 gaijin034
@@ -27815,7 +27770,6 @@ kgclub023
 dw115
 gaijin033
 bat045
-mgmr010
 omsk022
 dw112
 kgclub020
@@ -27835,7 +27789,6 @@ dw113
 htut171
 jkrk166
 ore252
-mgmr009
 gerk026
 pwife385
 gaijin032
@@ -27912,7 +27865,6 @@ oretd084
 hint0228
 eqt089
 kitaike086
-mgmr008
 onhtr014
 odoushi089
 htut168
@@ -27924,7 +27876,6 @@ grqr008
 yus021
 oretd085
 hint0229
-mgmr007
 grqr005
 pwife382
 eqt086
@@ -27992,7 +27943,6 @@ dw110
 orec015
 trumg012
 oretd088
-mgmr006
 orec018
 htut161
 jzukan116
@@ -28044,7 +27994,6 @@ jzukan115
 hdj032
 endx098
 kgclub016
-mgmr005
 eko163
 htut160
 yus018
@@ -28224,10 +28173,6 @@ hint0219
 hdj028
 urutora150
 dw105
-mgmr002
-mgmr001
-mgmr003
-mgmr004
 eqt071
 stouch576
 dw107
