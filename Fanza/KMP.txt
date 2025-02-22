@@ -13,7 +13,6 @@ supa00636
 real00858
 mkmp00571
 real00862
-umso00510sa1
 umso00400sa1
 umso00419sa1
 umso00340sa1
@@ -585,7 +584,6 @@ gigl00711
 okax00925
 batd00010
 xrst00003
-umso00275sa1
 umso00202sa1
 umso00402sa1
 umso00330sa1
