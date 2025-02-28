@@ -290,7 +290,6 @@ dvaj00335
 orec110
 orec116
 orec109
-xvsr00384
 dpmi00019
 h_244supa00338
 oomn00225
@@ -1613,7 +1612,6 @@ orec093
 orec094
 orec095
 orec097
-xvsr00374
 h_565scop00514
 ktky00024
 bhsp00014
