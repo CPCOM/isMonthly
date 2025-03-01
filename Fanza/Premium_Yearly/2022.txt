@@ -11749,7 +11749,6 @@ focs00041
 aqsh00081
 1totte00034
 13gvh00178
-td043sero00400
 sykh00039
 parathd03366
 orex338
@@ -17554,7 +17553,6 @@ nash00484
 bini304
 nash00482
 bini303
-orec897
 nash00481
 nash00488
 bini302
