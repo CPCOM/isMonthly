@@ -1132,13 +1132,11 @@ huntb00130
 huntb00109
 huntb00118
 hunbl00063
-huntb00116
 huntb00110
 huntb00114
 huntb00119
 huntb00115
 huntb00113
-huntb00117
 hunbl00064
 huntb00112
 huntb00111
@@ -1370,7 +1368,6 @@ hunta00949
 hunta00953
 hunta00951
 royd00044
-hunta00954
 royd00043
 hunta00950
 hunta00952
@@ -1487,7 +1484,6 @@ hunbl00020
 hhap00005
 hunbl00017
 hunta00873
-royd00028
 hunta00875
 hunta00877
 royd00027
@@ -1497,7 +1493,6 @@ hunta00874
 hunta00868
 hunta00876
 hunbl00018
-hunta00871
 hunta00870
 hunta00872
 royd00025
@@ -1745,12 +1740,8 @@ hunta00736
 oyc00309
 hunta00739
 oyc00311
-hunta00733
 ap00747
-hunta00735
-hunta00737
 hunta00738
-ap00749
 ap00750
 oyc00310
 hunta00734
