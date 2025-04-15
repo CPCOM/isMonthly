@@ -1,3 +1,10 @@
+oreco863
+smul034
+smjk043
+oremo256
+g515
+fots043
+yose039
 sgk116
 smjs040
 oremo255
@@ -9184,8 +9191,6 @@ tkwa222
 tkwa221
 tkwa220
 tkwa219
-tkwa218
-tkwa217
 tkwa216
 tkwa215
 tkwa214
@@ -19005,7 +19010,6 @@ orex133
 hint0395
 orec536
 shih019
-oretd704
 orec534
 orex127
 orec540
@@ -19034,7 +19038,6 @@ oretd701
 oretd709
 shih016
 oretd700
-oretd699
 jneta020
 oretd708
 hoi105
@@ -19204,7 +19207,6 @@ big0067
 oretd694
 per277
 ore663
-oretd693
 oretd695
 ore662
 gerk262
@@ -20826,7 +20828,6 @@ ckj256
 srho010
 htut367
 hamech290
-mntj013
 yss069
 hamech285
 hamech291
@@ -39386,3 +39387,13 @@ vinvin004
 vinvin003
 vinvin002
 vinvin001
+card000005
+card000004
+card000003
+card000006
+card000007
+card000002
+card000001
+card000008
+card000009
+card000010
