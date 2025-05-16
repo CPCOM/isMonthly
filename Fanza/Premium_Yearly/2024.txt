@@ -743,7 +743,6 @@ mama003
 ktkc00182
 kop026
 ko0091
-kbms00167
 kbms00166
 kagp00314
 jktu00054
@@ -20973,7 +20972,6 @@ ksat00073
 khip00014
 kepa00022
 kckc00168
-kbms00152
 katu00118
 kaku237
 kagp00288
