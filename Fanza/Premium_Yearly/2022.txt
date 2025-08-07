@@ -3818,7 +3818,6 @@ tkwa029
 tkwa028
 tkwa026
 tkwa025
-tkwa024
 tkwa023
 tkwa022
 tkwa021
@@ -10309,7 +10308,6 @@ opcyn282
 1nyh00197
 h_1100ongp00123
 pow068
-h_1635kamigb00001
 ion118
 gerk418
 pwife809
