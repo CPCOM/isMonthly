@@ -1710,7 +1710,6 @@ funza014
 ifc030
 df345
 df344
-gjkz256
 gjkz254
 gjkz257
 gjkz255
@@ -3615,7 +3614,6 @@ ifc025
 61mdtm00625
 61bazx00223
 tbx022
-gjkz252
 61mdtm00607
 stouch759
 gjkz251
