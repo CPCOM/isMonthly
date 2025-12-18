@@ -766,7 +766,6 @@ yss101
 crnx00062
 mase00043
 h_1580kamioch00007
-sgk006
 snyz060
 hint0532
 flc018
