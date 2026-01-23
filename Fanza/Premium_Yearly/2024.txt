@@ -330,7 +330,6 @@ cma00129
 btkc00002
 avsa00228
 aran00067
-akda00003
 agmx00150
 agmx00149
 agmx00148
