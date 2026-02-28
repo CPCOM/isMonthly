@@ -3,20 +3,20 @@
 ## Fanza Channel  
 | Channel | Count | Link |  
 | :-----: | :---: | :--- |  
-|![見放題ch デラックス](https://p.dmm.co.jp/p/mt/top/logo/premium_list.png)| 417710 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PREMIUM.txt |  
-|![見放題ch デラックス 4K](https://p.dmm.co.jp/p/bnr/digital/rotation/tmb/videoa_4kfree.jpg)| 16283 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PREMIUM_4K.txt |  
-|![見放題ch](https://p.dmm.co.jp/p/mt/top/logo/standard_list.png)| 208298 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/STANDARD.txt |  
-|![VRch](https://p.dmm.co.jp/p/mt/top/logo/vr_list.png)| 15304 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/VR.txt |  
+|![見放題ch デラックス](https://p.dmm.co.jp/p/mt/top/logo/premium_list.png)| 417888 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PREMIUM.txt |  
+|![見放題ch デラックス 4K](https://p.dmm.co.jp/p/bnr/digital/rotation/tmb/videoa_4kfree.jpg)| 16308 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/PREMIUM_4K.txt |  
+|![見放題ch](https://p.dmm.co.jp/p/mt/top/logo/standard_list.png)| 208287 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/STANDARD.txt |  
+|![VRch](https://p.dmm.co.jp/p/mt/top/logo/vr_list.png)| 15309 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/Fanza/VR.txt |  
   
 ## MGStage  
 | Channel | Count | Link |  
 | :-----: | :---: | :--- |  
 |![ShiroutoTV](https://static.mgstage.com/mgs/img/pc/s_banner-shirouto2.jpg)| 5264 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/ShiroutoTV.txt |  
-|![NanpaTV](https://static.mgstage.com/mgs/img/pc/s_banner-nanpa.jpg)| 3141 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/NanpaTV.txt |  
-|![LuxuTV](https://static.mgstage.com/mgs/img/pc/s_banner-luxu.jpg)| 1791 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/LuxuTV.txt |  
-|![SUPER ch](https://static.mgstage.com/mgs/img/pc/s_banner-superch.jpg)| 12470 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/SuperCH.txt |  
+|![NanpaTV](https://static.mgstage.com/mgs/img/pc/s_banner-nanpa.jpg)| 3142 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/NanpaTV.txt |  
+|![LuxuTV](https://static.mgstage.com/mgs/img/pc/s_banner-luxu.jpg)| 1790 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/LuxuTV.txt |  
+|![SUPER ch](https://static.mgstage.com/mgs/img/pc/s_banner-superch.jpg)| 12472 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/SuperCH.txt |  
 |![DOC ch](https://static.mgstage.com/mgs/img/pc/s_banner-DOC.jpg)| 1333 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/DocCH.txt |  
-|![PRESTIGE BB](https://static.mgstage.com/mgs/img/pc/s_banner-pre2.jpg)| 5172 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/PrestigeBB.txt |  
+|![PRESTIGE BB](https://static.mgstage.com/mgs/img/pc/s_banner-pre2.jpg)| 5171 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/PrestigeBB.txt |  
 |![KANBi ch](https://static.mgstage.com/mgs/img/pc/s_banner-kanbich.jpg)| 692 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/KanbiCH.txt |  
 |![SOD ch](https://static.mgstage.com/mgs/img/pc/s_banner-sod.jpg)| 10683 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/SodCH.txt |  
 |![h.m.p BB](https://static.mgstage.com/mgs/img/pc/s_banner-hmp.jpg)| 1741 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/MGS/hmpBB.txt |  
@@ -26,9 +26,9 @@
 ## DMM TV  
 | Channel | Count | Link |  
 | :-----: | :---: | :--- |  
-|**ビデオ 見放題**<br />Video Premium | 17412 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Premium.txt |  
+|**ビデオ 見放題**<br />Video Premium | 17413 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Premium.txt |  
 |**ビデオ 無料**<br />Video Free | 3012 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Video_Free.txt |  
-|**グラビア 見放題**<br />Gravure Premium | 8555 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Gravure_Premium.txt |  
+|**グラビア 見放題**<br />Gravure Premium | 8562 | https://raw.githubusercontent.com/CPCOM/isMonthly/main/DMMTV/DMMTV_Gravure_Premium.txt |  
   
 ## FANZA TV  
 | Channel | Count | Link |  
