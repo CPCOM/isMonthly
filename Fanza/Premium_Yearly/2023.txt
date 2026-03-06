@@ -930,7 +930,6 @@ merc351
 halt00027
 suji00187
 merc323
-mgfx106
 merc345
 bmyb101
 merc348
@@ -2074,7 +2073,6 @@ ffnn117
 h_1594spro00079
 h_1450osst00030
 dmtp017
-mgfx103
 h_1450psst00041
 h_1237thtp00085
 h_1450psst00040
@@ -15162,7 +15160,6 @@ mgfx031
 mgfx029
 mgfx028
 mgfx027
-mgfx026
 mgfx024
 mgfx023
 mgfx021
@@ -15338,7 +15335,6 @@ bmyb065
 bmyb064
 bmyb063
 bmyb061
-bmyb059
 bmyb057
 bmyb056
 bmyb055
