@@ -827,7 +827,6 @@ srtd163
 shss004
 1silks00025
 1silkbt00004
-szdr001
 1sdjs00071
 1sdab00135
 1kmhrs00023
@@ -7305,7 +7304,6 @@ hoi082
 mism00165
 hlan002
 hlan003
-1mmgh00247
 hlan001
 18sprd01254
 h_1462pyu00009
@@ -19385,7 +19383,6 @@ asia00078
 jotk007
 htut335
 h_565scop00641
-fctd016
 hnd00695
 oretd534
 dnjr00007
@@ -19910,7 +19907,6 @@ ssni00388
 per188
 ipx00337
 sekao105
-fctd013
 apns00131
 1piyo00035
 eyan00138
