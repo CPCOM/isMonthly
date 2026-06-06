@@ -648,7 +648,6 @@ odv00531
 1sdmm13203
 yarr003
 srob00012
-satd00007
 midv00400
 meyd00793
 jufe00481
@@ -4199,7 +4198,6 @@ jktu00026
 funk00013
 ktky00071
 sef006
-batd00007
 1stars00807
 sef007
 sth050
