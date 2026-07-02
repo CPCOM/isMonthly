@@ -14577,7 +14577,6 @@ srtd178
 yrtb007
 srtd179
 nnpr002
-stst012
 h_254kir00020
 h_254udak00003
 h_254spz01081
