@@ -97681,8 +97681,6 @@ ami001
 15dsui00036
 15dsui00021
 15arki11
-15arki10
-15arki09
 15arki08
 15arki07
 15arki06
