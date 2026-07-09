@@ -23616,7 +23616,6 @@ tppn00239
 tppn00238
 tpin00060
 tpin00059
-stcesd00101
 smcd00015
 shoa003
 scop00817
