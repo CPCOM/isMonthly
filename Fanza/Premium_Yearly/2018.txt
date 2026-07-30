@@ -1762,7 +1762,6 @@ h_067nass00737
 ddob00028
 exmu014
 veo00030
-tura00323
 ssni00060
 pppd00663
 parathd02287
