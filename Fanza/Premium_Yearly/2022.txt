@@ -7411,7 +7411,6 @@ ttjk025
 td046mtndv01459
 bab00057
 ttjk027
-td046mtndv01645
 bony00004
 ttjm120
 td046nmtsero00325
@@ -16479,7 +16478,6 @@ parathd03327
 td042dv01685
 sqb127
 parathd03310
-td042dv01645
 orec934
 meat00036
 nkhb00010
