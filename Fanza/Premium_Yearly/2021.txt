@@ -15016,7 +15016,6 @@ oretd775
 td036sero00060
 sp030
 h_585mdtm00675
-oretd773
 84mkmp00358
 td036dv01579
 hstg012
@@ -17572,7 +17571,6 @@ hmhi545
 kag092
 172xrw00910
 orec601
-oretd748
 84okax00650
 piz0007
 oretd750
@@ -18745,7 +18743,6 @@ kitaike0398
 1senn00032
 1kktn00009
 1kktn00010
-oretd742
 oretd740
 hstg008
 oretd741
@@ -20478,16 +20475,12 @@ khom005
 1mmgh00275
 oretd723
 oretd726
-oretd733
-oretd732
 spsh005
 oretd731
 spsh001
 ykmc037
 bkkn099
 spsh004
-oretd727
-oretd724
 srtd166
 oretd728
 oretd730
@@ -20496,7 +20489,6 @@ kag025
 spsh002
 oretd725
 h_1186etqr00146
-h_1186etqr00147
 spsh003
 sacz005
 sacz004
